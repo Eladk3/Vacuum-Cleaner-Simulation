@@ -1,8 +1,8 @@
 # Vacuum Cleaner Simulation
 
 ## Contributors
-- Elad Eli Kadosh 318730116
-- Noy Agam 314623372
+- Elad Kadosh 
+- Noy Agam 
 
 ## Overview
 This project simulates an automatic vacuum cleaner navigating and cleaning a house. The house layout is provided as an input file, and the vacuum cleaner's actions and final status are output to a file.
